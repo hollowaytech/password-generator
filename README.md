@@ -4,3 +4,4 @@ Ever thought of making a secure password but didn't know what to do? Well now yo
 - secret, time, and string libraries
 - Exception statements for invalid values and limits (default limit is 100)
 - Automated string generator
+- Code for exiting script
